@@ -1,2 +1,2 @@
 *.rdb
-mongodb/data
+mongodb/data/*
