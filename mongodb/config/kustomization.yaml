@@ -1,0 +1,7 @@
+configMapGenerator:
+- name: mongo-config
+  files:
+  - mongo-config
+resources:
+- mongo-deployment.yaml
+- mongo-service.yaml
